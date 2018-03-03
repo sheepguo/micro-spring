@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/micro-spring.iml" filepath="$PROJECT_DIR$/.idea/micro-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-spring-aop/micro-spring-aop.iml" filepath="$PROJECT_DIR$/micro-spring-aop/micro-spring-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-spring-beans/micro-spring-beans.iml" filepath="$PROJECT_DIR$/micro-spring-beans/micro-spring-beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-spring-context/micro-spring-context.iml" filepath="$PROJECT_DIR$/micro-spring-context/micro-spring-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-spring-core/micro-spring-core.iml" filepath="$PROJECT_DIR$/micro-spring-core/micro-spring-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microspringcore/microspringcore.iml" filepath="$PROJECT_DIR$/microspringcore/microspringcore.iml" />
     </modules>
   </component>
 </project>
